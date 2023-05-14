@@ -5,7 +5,7 @@
 
 ## Overview
 
-<img width="1470" alt="image" src="https://user-images.githubusercontent.com/108294869/233848239-a1f85dde-2035-4a88-9f39-c05153d5794b.png">
+<img width="1463" alt="image" src="https://github.com/albscr/Videogame-JS/assets/108294869/8079da7f-758c-4789-a08c-f92305020bf1">
 
 <ul>
   <li>I implemented the use of <b>window.addEventListener</b> to add events to the browser window and improve the interactivity of the game.</li>
